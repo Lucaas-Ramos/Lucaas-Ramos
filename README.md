@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Olá 👋, Eu sou o Lucas Ramos</h1>
+<h3 align="center">Estudante no programa Hiring Coders. Atualmente, graduando em Segurança da Informação. Almejo aprender cada vez mais sobre codificação e evoluir no meu processo de aprendizagem!</h3>
 
-<!--
-**Lucaas-Ramos/Lucaas-Ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📝 DIO [https://web.digitalinnovation.one/users/lucas-arf?tab=achievements](https://web.digitalinnovation.one/users/lucas-arf?tab=achievements)
 
-Here are some ideas to get you started:
+- 📫 E-mail **lucas-arf@hotmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-ramos-gmp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-ramos-gmp" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/luccas.alan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/luccas.alan/" height="30" width="40" /></a>
+<a href="https://instagram.com/hahlucas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hahlucas" height="30" width="40" /></a>
+</p>
