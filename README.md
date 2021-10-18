@@ -1,5 +1,4 @@
-<h1 align="center">Olá ![wave](https://user-images.githubusercontent.com/86375264/137802505-1f0359a1-e2bb-46cf-bc12-f0101176d471.gif)
-  Eu sou o Lucas Ramos! :man_technologist: </h1>
+<h1 align="center">Olá ![wave](https://user-images.githubusercontent.com/86375264/137802505-1f0359a1-e2bb-46cf-bc12-f0101176d471.gif) Eu sou o Lucas Ramos! :man_technologist: </h1>
 <h3 align="center">Finalista do programa de capacitação Hiring Coders #2. Atualmente, graduando em Segurança da Informação.</h3>
 
 
