@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋
   Eu sou o Lucas Ramos! :man_technologist: </h1>
-<h3 align="center">Finalista do programa de capacitação Hiring Coders #2. Atualmente, graduando em Segurança da Informação. Em transição de carreira, almejo aprender cada vez mais e evoluir profisionalmente!</h3>
+<h3 align="center">Finalista do programa de capacitação Hiring Coders #2. Atualmente, graduando em Segurança da Informação.</h3>
 
 <div align="center">
   <a href="https://github.com/Lucaas-Ramos">
@@ -14,6 +14,8 @@
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-VTEX" height="30" width="40" src="https://avatars.githubusercontent.com/in/18749?v=4">
+  <img align="center" alt="Lucas-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-plain.svg"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
