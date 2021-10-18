@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋
   Eu sou o Lucas Ramos! :man_technologist: </h1>
-<h3 align="center">Finalista do programa de capacitação Hiring Coders #2. Atualmente, graduando em Segurança da Informação. Em transição de ccarreira, almejo aprender cada vez mais e evoluir profisionalmente!</h3>
+<h3 align="center">Finalista do programa de capacitação Hiring Coders #2. Atualmente, graduando em Segurança da Informação. Em transição de carreira, almejo aprender cada vez mais e evoluir profisionalmente!</h3>
 
 <div align="center">
   <a href="https://github.com/Lucaas-Ramos">
