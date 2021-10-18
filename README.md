@@ -1,6 +1,12 @@
 <h1 align="center">Olá 👋, Eu sou o Lucas Ramos :man_technologist: </h1>
 <h3 align="center">Finalista do programa de capacitação Hiring Coders #2. Atualmente, graduando em Segurança da Informação. Almejo aprender cada vez mais sobre codificação e evoluir no meu processo de aprendizagem!</h3>
 
+<div align="center">
+  <a href="https://github.com/Lucaas-Ramos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucaas-Ramos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaas-Ramos&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 - 📫 E-mail **lucas-arf@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
