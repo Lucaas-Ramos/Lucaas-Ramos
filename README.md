@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋
+<h1 align="center">Olá <src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
   Eu sou o Lucas Ramos! :man_technologist: </h1>
 <h3 align="center">Finalista do programa de capacitação Hiring Coders #2. Atualmente, graduando em Segurança da Informação.</h3>
 
