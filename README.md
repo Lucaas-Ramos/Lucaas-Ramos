@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou o Lucas Ramos :man_technologist: </h1>
 <h3 align="center">Finalista do programa de capacitação Hiring Coders #2. Atualmente, graduando em Segurança da Informação. Almejo aprender cada vez mais sobre codificação e evoluir no meu processo de aprendizagem!</h3>
 
-- 📝 DIO [https://web.digitalinnovation.one/users/lucas-arf?tab=achievements](https://web.digitalinnovation.one/users/lucas-arf?tab=achievements)
-
 - 📫 E-mail **lucas-arf@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
