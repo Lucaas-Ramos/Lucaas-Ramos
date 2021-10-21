@@ -10,6 +10,7 @@
   <img height="196" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaas-Ramos&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
+ 
 ## Skills :bar_chart:
   
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,10 +19,11 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-VTEX" height="30" width="40" src="https://avatars.githubusercontent.com/in/18749?v=4">
   <img align="center" alt="Lucas-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-plain.svg">
+ 
 
  ## Redes Sociais :calling:
       
-<div align="center"> 
+<div> 
   <a href="https://instagram.com/hahlucas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-ramos-gmp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
