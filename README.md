@@ -3,11 +3,11 @@
 <h3 align="center">Finalista do programa de capacitação Hiring Coders #2. Graduando em Segurança da Informação.</h3>
 <img align="center" src="https://user-images.githubusercontent.com/86375264/137806043-bbe3914e-0740-463e-9f4d-4398e213b8d6.jpg"/>
 
-     
+    
 <div align="center">
   <a href="https://github.com/Lucaas-Ramos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucaas-Ramos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaas-Ramos&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lucaas-Ramos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaas-Ramos&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 - 📫 E-mail **lucas-arf@hotmail.com**
