@@ -19,7 +19,7 @@
   <img align="center" alt="Lucas-VTEX" height="30" width="40" src="https://avatars.githubusercontent.com/in/18749?v=4">
   <img align="center" alt="Lucas-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-plain.svg"
 
- ## Redes Sociais :calling
+ ## Redes Sociais :calling:
       
 <div> 
   <a href="https://instagram.com/hahlucas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
