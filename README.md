@@ -10,7 +10,6 @@
   <img height="196" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaas-Ramos&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-- 📫 E-mail **lucas-arf@hotmail.com**
   ##
   
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
